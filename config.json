@@ -1,0 +1,15 @@
+{
+    "contracts" : {
+        "bsc" : {
+            "tokens" : {
+                "Drip" : "0x20f663CEa80FaCE82ACDFA3aAE6862d246cE0333"
+            },
+            "claim" : {
+                "TransparentUpgradeableProxy" : "0xFFE811714ab35360b67eE195acE7C10D93f89D8C",
+                "ProxyImplementation" : "0xa38e0b7da56227bd9ba1ccf1ff7d23aba4807158",
+                "Vault" : "0xbff8a1f9b5165b787a00659216d7313354d25472"
+            }
+        }
+    }
+
+}
